@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: dance-all
+  description: Dance Language Samples
+spec:
+  targets:
+    - https://github.com/northdepot/go-test-13/blob/main/catalog-info.yaml
+    - https://github.com/northdepot/go-test-13-gitops/blob/main/catalog-info.yaml
