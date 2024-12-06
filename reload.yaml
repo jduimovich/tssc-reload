@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: dance-all
-  description: Dance Language Samples
+  name: pre-created-templates
+  description: Pre Created Samples
 spec:
   targets:
     - https://github.com/northdepot/go-test-13/blob/main/catalog-info.yaml
